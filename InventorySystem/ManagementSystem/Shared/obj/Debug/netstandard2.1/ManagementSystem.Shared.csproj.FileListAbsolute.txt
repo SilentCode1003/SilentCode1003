@@ -1,0 +1,9 @@
+D:\JAO\PROJECT\SilentCode1003\InventorySystem\ManagementSystem\Shared\bin\Debug\netstandard2.1\ManagementSystem.Shared.deps.json
+D:\JAO\PROJECT\SilentCode1003\InventorySystem\ManagementSystem\Shared\bin\Debug\netstandard2.1\ManagementSystem.Shared.dll
+D:\JAO\PROJECT\SilentCode1003\InventorySystem\ManagementSystem\Shared\bin\Debug\netstandard2.1\ManagementSystem.Shared.pdb
+D:\JAO\PROJECT\SilentCode1003\InventorySystem\ManagementSystem\Shared\obj\Debug\netstandard2.1\ManagementSystem.Shared.csprojAssemblyReference.cache
+D:\JAO\PROJECT\SilentCode1003\InventorySystem\ManagementSystem\Shared\obj\Debug\netstandard2.1\ManagementSystem.Shared.AssemblyInfoInputs.cache
+D:\JAO\PROJECT\SilentCode1003\InventorySystem\ManagementSystem\Shared\obj\Debug\netstandard2.1\ManagementSystem.Shared.AssemblyInfo.cs
+D:\JAO\PROJECT\SilentCode1003\InventorySystem\ManagementSystem\Shared\obj\Debug\netstandard2.1\ManagementSystem.Shared.csproj.CoreCompileInputs.cache
+D:\JAO\PROJECT\SilentCode1003\InventorySystem\ManagementSystem\Shared\obj\Debug\netstandard2.1\ManagementSystem.Shared.dll
+D:\JAO\PROJECT\SilentCode1003\InventorySystem\ManagementSystem\Shared\obj\Debug\netstandard2.1\ManagementSystem.Shared.pdb
